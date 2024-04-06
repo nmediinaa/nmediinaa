@@ -1,7 +1,7 @@
 ### Olá, seja bem-vindo 👋
 
 - 🎓 Estudando bacharel em ciência da computação
-- ✍️ Estou aprendendo Desenvolvimento web
+- ✍️ Estou aprendendo POO(Programção Orientada a Objetos)
 - 📫 nicolascostam23@gmail.com
 
 
