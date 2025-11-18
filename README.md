@@ -1,20 +1,19 @@
 # Olá, Seja Bem-Vindo(a)! 👋
 
-### 🎯 Sobre Mim
+### 🎯 About Me
 
-* **🎓 Formação:** Estudante de Bacharelado em Ciência da Computação | [USCS]
-* **💻 Foco:** Atualmente aprimorando habilidades em **Programação Orientada a Objetos (POO)** e desenvolvimento **Back-end**.
-* **📚 Tech Stack:** Java, C# e C++
-<div style="display: inline_block">
- <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
-  <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-   <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-</div> 
+I'm a Computer Science student currently in my 6th semester. I work as a Junior Development Support Analyst, bridging the gap between infrastructure and software development. I also have a strong interest in Infrastructure and Cybersecurity.
+On my free time, I am deeply focused on improve my Back-end skills, currently building projects with C#, C++ and TypeScript. I'm also exploring Java for both enterprise applications and game development hobbies. 
+
+### 📚 Tech Stack:
+ [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,cpp,java,ts,bash,docker,linux)](https://skillicons.dev)
 <hr>
   
 <img align="right" alt="Seiya-pic" height="150" style="border-radius:50px;" src="https://github.com/user-attachments/assets/9efa170a-1283-4ae3-a903-2149f49ca41d">
 
 ### 🌐 Conecte-se Comigo
-
-* **📧 Email:** nicolascostam23@gmail.com
-*  <a href="https://www.linkedin.com/in/nicolascostamedina/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<div>
+<a href = "mailto:nicolascostam23@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/nicolascostamedina/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://instagram.com/nmediinaa" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div>
