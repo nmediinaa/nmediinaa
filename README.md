@@ -11,7 +11,7 @@ On my free time, I am deeply focused on improve my Back-end skills, currently bu
   
 <img align="right" alt="Seiya-pic" height="150" style="border-radius:50px;" src="https://github.com/user-attachments/assets/9efa170a-1283-4ae3-a903-2149f49ca41d">
 
-### 🌐 Conecte-se Comigo
+### 🌐 Contac me 
 <div>
 <a href = "mailto:nicolascostam23@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/nicolascostamedina/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
