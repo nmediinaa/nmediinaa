@@ -1,4 +1,4 @@
-# Hey There! My name is Nicolas Medina🌌 
+# Hey There! Welcome to my GitHub🌌 
 
 ### 🎯 About Me
 
