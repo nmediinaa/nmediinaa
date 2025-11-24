@@ -6,7 +6,7 @@ I'm a Computer Science student currently in my 6th semester. I work as a Junior 
 On my free time, I am deeply focused on improve my Back-end skills, currently building projects with C#, C++ and TypeScript. I'm also exploring Java for both enterprise applications and game development hobbies. 
 
 ### 📚 Tech Stack:
- [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,cpp,java,ts,bash,docker,linux)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,java,ts,react,bash,docker,linux)](https://skillicons.dev)
 <hr>
   
 <img align="right" alt="Seiya-pic" height="150" style="border-radius:50px;" src="https://github.com/user-attachments/assets/9efa170a-1283-4ae3-a903-2149f49ca41d">
