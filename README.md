@@ -1,4 +1,4 @@
-# Olá, Seja Bem-Vindo(a)! 👋
+# Hey There! My name is Nicolas Medina🌌 
 
 ### 🎯 About Me
 
