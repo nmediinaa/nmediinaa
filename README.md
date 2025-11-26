@@ -1,4 +1,4 @@
-# Hey There! Welcome to my GitHub🌌 
+# Hey There :wave:
 
 ### 🎯 About Me
 
