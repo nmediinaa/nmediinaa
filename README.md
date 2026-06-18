@@ -3,6 +3,8 @@
   Nicolas Medina
 </h1>
 
+**`Back-end developer`**
+
 I'm a Computer Science student currently in my 8th semester. I work as a Development Support Analyst.
 In my free time, I am deeply focused on improving my Back-end skills, currently building projects with C# and the .NET ecosystem.
 
@@ -24,3 +26,5 @@ In my free time, I am deeply focused on improving my Back-end skills, currently 
 
 ### 💻 Techstack
  [![My Skills](https://skillicons.dev/icons?i=cs,java,dotnet,react,git,bash,docker,linux)](https://skillicons.dev)
+
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nmediinaa&theme=tokyonight&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
