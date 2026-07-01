@@ -26,5 +26,3 @@ In my free time, I am deeply focused on improving my Back-end skills, currently 
 
 ### 💻 Techstack
  [![My Skills](https://skillicons.dev/icons?i=cs,java,dotnet,react,git,bash,docker,linux)](https://skillicons.dev)
-
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nmediinaa&theme=tokyonight&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
