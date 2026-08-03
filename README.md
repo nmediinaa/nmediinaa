@@ -25,4 +25,4 @@ In my free time, I am deeply focused on improving my Back-end skills, currently 
 <hr>
 
 ### 💻 Techstack
- [![My Skills](https://skillicons.dev/icons?i=cs,java,dotnet,react,git,bash,docker,linux)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,angular,git,bash,docker,linux)](https://skillicons.dev)
